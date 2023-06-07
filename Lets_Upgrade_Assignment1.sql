@@ -6,3 +6,4 @@ Insert into ToDo_List values(2,'Electricity Bill Payment','Pay 2000 Before 11th'
 Insert into ToDo_List values(3,'Project Submission','MERN Stack Project',0);
 Insert into ToDo_List values(4,'Buying Groceries','Follow The List',0);
 Insert into ToDo_List values(1,'Maths Homework','Exercise 13.2',0);
+Select * from ToDo_List;
